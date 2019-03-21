@@ -1,2 +1,3 @@
 # hello-world1
-try
+
+This is just a sample trying of using github. 
